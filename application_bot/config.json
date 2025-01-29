@@ -1,0 +1,22 @@
+{
+    "user": {
+        "name": "Your Full Name",
+        "email": "your.email@example.com",
+        "phone": "+1234567890",
+        "linkedin": "https://linkedin.com/in/yourprofile",
+        "github": "https://github.com/yourusername"
+    },
+    "preferences": {
+        "job_titles": ["Python Developer", "Machine Learning Engineer"],
+        "locations": ["Remote", "New York", "London"],
+        "salary_range": {
+            "min": 60000,
+            "max": 120000
+        },
+        "blacklist_companies": ["CompanyA", "CompanyB"]
+    },
+    "apis": {
+        "indeed": "your_indeed_api_key_here",
+        "huggingface": "your_hf_api_key_here"
+    }
+}
